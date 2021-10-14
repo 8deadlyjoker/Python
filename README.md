@@ -1,2 +1,2 @@
-# Python
-My Diary
+# Python Introduction
+
