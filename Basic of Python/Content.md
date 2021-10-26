@@ -1,6 +1,6 @@
 # Variable
 
-1. type function
-2. Add two number !
+01. type function
+02. Add two number !
+03. Python Lists And List Functions.ipynb
 
-# String
